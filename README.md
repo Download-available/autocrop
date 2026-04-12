@@ -1,20 +1,20 @@
-# Autocrop
+# Crop2bound
 
 **Live app → https://download-available.github.io/autocrop**
-
+<img src="https://github.com/Download-available/autocrop/blob/main/crop2bound-white.png" width="500px">
 ---
 
-Autocrop is a free, simple web tool that automatically trims the empty transparent space around images — no software to install, no sign-up required. Everything happens directly in your browser; your files never leave your device.
+Crop2bound is a free, simple web tool that automatically trims the empty transparent space around images — no software to install, no sign-up required. Everything happens directly in your browser; your files never leave your device.
 
-**Autocrop** คือเครื่องมือเว็บฟรีที่ช่วยตัดขอบโปร่งใสที่ว่างเปล่าออกจากรูปภาพโดยอัตโนมัติ ไม่ต้องติดตั้งโปรแกรม ไม่ต้องสมัครสมาชิก ทุกอย่างทำงานในเบราว์เซอร์ของคุณ — ไฟล์จะไม่ถูกส่งไปที่ใดทั้งนั้น
+**Crop2bound** คือเครื่องมือเว็บฟรีที่ช่วยตัดขอบโปร่งใสที่ว่างเปล่าออกจากรูปภาพโดยอัตโนมัติ ไม่ต้องติดตั้งโปรแกรม ไม่ต้องสมัครสมาชิก ทุกอย่างทำงานในเบราว์เซอร์ของคุณ — ไฟล์จะไม่ถูกส่งไปที่ใดทั้งนั้น
 
 ---
 
 ## What it does / ทำอะไรได้บ้าง
 
-Imagine a sticker on a large transparent canvas. Autocrop finds where the sticker actually is and cuts away all the extra empty space around it, leaving only the sticker itself — at the exact same quality as the original.
+Imagine a sticker on a large transparent canvas. Crop2bound finds where the sticker actually is and cuts away all the extra empty space around it, leaving only the sticker itself — at the exact same quality as the original.
 
-ลองนึกภาพสติกเกอร์ที่วางอยู่บนผ้าใบโปร่งใสขนาดใหญ่ Autocrop จะหาตำแหน่งที่สติกเกอร์อยู่จริง ๆ แล้วตัดพื้นที่ว่างรอบ ๆ ออก เหลือแค่ตัวสติกเกอร์ — โดยที่คุณภาพรูปภาพยังคงเดิมทุกประการ
+ลองนึกภาพสติกเกอร์ที่วางอยู่บนผ้าใบโปร่งใสขนาดใหญ่ Crop2bound จะหาตำแหน่งที่สติกเกอร์อยู่จริง ๆ แล้วตัดพื้นที่ว่างรอบ ๆ ออก เหลือแค่ตัวสติกเกอร์ — โดยที่คุณภาพรูปภาพยังคงเดิมทุกประการ
 
 **Supported formats / รูปแบบไฟล์ที่รองรับ:** PNG, WebP
 
