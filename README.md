@@ -1,6 +1,6 @@
 # Crop2bound
 
-**Live app → https://download-available.github.io/autocrop**
+##### **Live app → https://download-available.github.io/autocrop**
 <img src="https://github.com/Download-available/autocrop/blob/main/crop2bound-white.png" width="500px">
 ---
 
